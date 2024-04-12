@@ -1,0 +1,14 @@
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:29 TESTCASE TEST_SEARCH_EMP_004 IS STARTED
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:31 OPEN THE BROWSER
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:33 MAXIMIZE THE BROWSER
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:35 NAVIGATING TO URL
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:38 ENTERING THE USERNAME
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:41 ENTERING THE PASSWORD
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:44 CLICK ON LOGIN BUTTON
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:49 CLICK ON PIM BUTTON
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:54 CLICK ON EMPID BUTTON
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:57 CLICK ON SEARCH BUTTON
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:65 DETAILS OF EMPLOYEE ARE PRINTED
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:66 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:67 TEST CASE IS PASSED
+[32mINFO    [0m Test_searchch_empemp:test_search_emp.py:78 TESTCASE TEST_SEARCH_EMP_004 IS COMPLETED

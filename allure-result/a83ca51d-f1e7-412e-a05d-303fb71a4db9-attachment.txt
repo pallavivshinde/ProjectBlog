@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:20 TEST CASE PAGE_TITLE_001 IS STARTED 
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:21 MAXIMIZE THE BROWSER
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:25 NAVIGATING TO THE URL
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:29 CHECKING THE TITLE OF THE PAGE
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:31 TAKING THE SCREENSHOT
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:35 CLOSING THE BROWSER
+[32mINFO    [0m Test_ohrmpro:test_login_hrm_testcase.py:44 TEST CASE PAGE_TITLE_001 IS COMPLETED

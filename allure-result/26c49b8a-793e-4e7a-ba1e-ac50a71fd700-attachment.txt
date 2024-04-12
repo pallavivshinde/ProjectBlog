@@ -1,0 +1,17 @@
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:26 TEST CASE ADD_EMPL_003 IS STARTED
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:28 OPENING THE BROWSER
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:30 MAXIMIZE THE BROWSER
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:34 NAVIGATING TO THE URL
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:37 ENTERTING THE USERNAME
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:40 ENTERING THE PASSWORD
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:43 CLICK ON THE LOGIN BUTTON
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:48 CLICK ON THE PIM TAB
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:51 CLICk ON THE ADD BUTTON
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:54 ENTERING THE USERNAME
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:57 ENTERING THE PASSWORD
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:60 ENTERING THE LASTNAME
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:63 UPLOAD THE DISPLAY PROFILE
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:67 CLICK ON THE SAVE BUTTON
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:70 CHECKING FOR THE SUCCESS MESSAGE STATUS
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:72 TAKING SCREENSHOT
+[32mINFO    [0m Test_Addd_Emp:test_add_emp_testcase.py:86 TEST CASE ADD_EMP_003 IS COMPLETED
